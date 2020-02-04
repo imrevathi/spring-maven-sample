@@ -1,1 +1,1 @@
-# spring-maven-sample
+# Revathi spring-maven-example
